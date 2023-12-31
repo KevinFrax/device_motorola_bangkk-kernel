@@ -1,1 +1,0 @@
-# device_motorola_bangkk-kernel
